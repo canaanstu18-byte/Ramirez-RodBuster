@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# thank-you page has no standalone value in search
+Disallow: /thanks.html
+
+Sitemap: https://www.ramirezrodbuster.com/sitemap.xml
